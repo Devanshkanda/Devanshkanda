@@ -55,9 +55,9 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshkanda&langs_count=10&layout=compact&theme=radical&hide_border=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshkanda&langs_count=10&layout=compact&theme=radical&hide_border=true)
 
-<!-- ![Devansh kanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devanshkanda&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true)
+![Devansh kanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devanshkanda&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshkanda&langs_count=10&layout=compact&theme=radical&hide_border=true)
 
 ![Devansh kanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devanshkanda&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true)
