@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Devanshkanda&color=000000)
 
-![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0B0BFF&size=25&lines=Full+stack+developer;Backend+Developer;Open+Source;Passionate+about+Tech;Cybersecurity+Enthusiast;ISC2+CC+Certified)
+![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0B0BFF&size=25&lines=Backend+Developer;Open+Source;Passionate+about+Tech;Cybersecurity+Enthusiast;ISC2+CC+Certified)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devanshkanda&theme=radical&hide_border=true)
 
